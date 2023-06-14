@@ -1,0 +1,15 @@
+.home-banner {
+    background-image: url(../img/home-banner.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.banner {
+    background-image: url(../img/about-us-banner.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.maps {
+    height: 40vh;
+}
